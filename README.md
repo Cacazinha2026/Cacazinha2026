@@ -6,13 +6,13 @@ Gosto de transformar dados em informações que façam sentido e ajudem as pesso
 
 Ao longo da minha trajetória profissional, tive a oportunidade de trabalhar em grandes ambientes corporativos, conectando tecnologia, processos e necessidades do negócio. Desde 2017, venho ampliando minha experiência com indicadores, relatórios gerenciais, dashboards e soluções de Business Intelligence.
 
-Tenho experiência com Power BI, SQL, DAX, Power Query e Cognos Analytics, além de interesse em automação e integração de processos utilizando n8n, APIs e inteligência artificial.
+Tenho experiência com Power BI, SQL, DAX, Power Query, looker studio e Cognos Analytics, além de interesse em automação e integração de processos utilizando n8n, APIs e inteligência artificial.
 
 Aqui no GitHub, compartilho projetos que desenvolvo para colocar meus conhecimentos em prática, explorar novas possibilidades e encontrar maneiras cada vez melhores de transformar dados em soluções úteis.
 
 ## 🛠️ Ferramentas que utilizo
 
-- 📊 **BI e visualização:** Power BI, DAX, Power Query e Cognos Analytics
+- 📊 **BI e visualização:** Power BI, DAX, Power Query, looker studio e Cognos Analytics
 - 🗄️ **Banco de dados:** SQL e SQL Server
 - ⚙️ **Automação e integração:** n8n, APIs e Google Sheets
 - 📈 **Outras ferramentas:** Excel e ServiceNow
